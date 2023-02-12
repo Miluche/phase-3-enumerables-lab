@@ -31,6 +31,7 @@ other enumerable methods to make the job easier, like `#map`, `#select`, and
 Define a method `#get_names`, takes an array of `spicy_foods` and **returns an
 array of strings** with the names of each spicy food.
 
+
 ```rb
 get_names(spicy_foods)
 # => ["Green Curry", "Buffalo Wings", "Mapo Tofu"]
